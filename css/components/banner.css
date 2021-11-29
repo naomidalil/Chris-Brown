@@ -1,0 +1,16 @@
+.banner{
+
+ background-color: #E8CE72;
+
+ background-size: cover;    
+background-position: center;
+.container h1
+  color: white;
+  font-size: 35px;
+
+}
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+opacity: 0.8;
+}
